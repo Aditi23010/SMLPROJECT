@@ -5,6 +5,9 @@ This project contains code for training and testing models for image classificat
 ## Dataset Drive Link
 - https://drive.google.com/drive/folders/1IIZKESLtUYMdNp1oP7wOziaWYEZZXWdU?usp=sharing
 
+## Pre-trained Model Link
+- https://drive.google.com/drive/folders/1JdoJSMDabNrYR2v6JMJQcJlg3uG_SPRr?usp=sharing
+
 ## Folder Structure
 
 - **Model**: Contains saved model parameters.
