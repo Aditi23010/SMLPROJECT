@@ -2,6 +2,9 @@
 
 This project contains code for training and testing models for image classification.
 
+## Dataset Drive Link
+- https://drive.google.com/drive/folders/1IIZKESLtUYMdNp1oP7wOziaWYEZZXWdU?usp=sharing
+
 ## Folder Structure
 
 - **Model**: Contains saved model parameters.
